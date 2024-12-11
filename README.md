@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto **Video Processor** é uma ferramenta em desenvolvimento que visa fornecer funcionalidades avançadas de processamento de vídeo. Este repositório faz parte do meu portfólio e demonstra minhas habilidades em desenvolvimento de software, especialmente no que diz respeito ao processamento de mídia.
+O projeto **Video Processor** é uma ferramenta em desenvolvimento que visa fornecer funcionalidades avançadas de processamento de vídeo.
 
 ## Funcionalidades Planejadas
 
